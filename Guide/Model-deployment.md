@@ -66,7 +66,7 @@ docker run --gpus all -p 8000:8000 \
 Test:
 
 http://localhost:8000/v1/completions
-
+```
 ## 🐳 Step 2: Optional API Layer (FastAPI)
 
 Use this only if you need authentication or custom routing.

@@ -318,5 +318,3 @@ If this helped:
 * Star ⭐ the repo
 * Share with others
 * Follow for more DevOps + AI content
-
-```

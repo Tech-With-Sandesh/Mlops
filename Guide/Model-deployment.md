@@ -3,7 +3,7 @@
 ## 📌 Overview
 This guide explains how to deploy a Large Language Model (LLM) using a **production-ready DevOps pipeline**.
 
-This is NOT a basic demo. It includes:
+It includes:
 - Dedicated inference server (vLLM)
 - GPU-based deployment
 - CI/CD pipeline (build + push)

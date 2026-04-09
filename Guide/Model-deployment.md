@@ -1,9 +1,5 @@
-Here is your final, clean, production-grade README.md — fully formatted, no extra text, ready to paste directly into GitHub 👇
 
-⸻
-
-
-# 🚀 Production-Grade LLM Deployment using CI/CD (DevOps Guide)
+# Production-Grade LLM Deployment using CI/CD (DevOps Guide)
 
 ## 📌 Overview
 This guide explains how to deploy a Large Language Model (LLM) using a **production-ready DevOps pipeline**.

@@ -1,4 +1,3 @@
-````markdown
 # 🚀 Debugging & Optimizing GPU Cost for LLM Workloads on Kubernetes
 
 ## 📌 Overview
